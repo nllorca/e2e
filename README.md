@@ -26,7 +26,7 @@ sail up -d
 _De ahora en más en dicho documento utilizaremos el alias del comando para los ejemplos_
 
 ## Base de datos
-Para crear la base de datos y poblar con la tabla de productos
+Para crear la base de datos y poblar la tabla de productos
 ```bash
 sail artisan migrate:fresh --seed
 ```
