@@ -40,7 +40,7 @@ sail artisan app:test1
 ```
 
 ## Test2
-Se incluye en el proyecto un archivo .SQL con las soluciones, en: [test2.sql[(./test2.sql)
+Se incluye en el proyecto un archivo .SQL con las soluciones, en: [test2.sql](./test2.sql)
 
 ## Test3
 La API solicitada se desarrolló en Laravel. La documentación de la API, se implementó con [Scramble](https://scramble.dedoc.co/)
