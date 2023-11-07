@@ -25,6 +25,12 @@ sail up -d
 ```
 _De ahora en más en dicho documento utilizaremos el alias del comando para los ejemplos_
 
+## Base de datos
+Para crear la base de datos y poblar con la tabla de productos
+```bash
+sail artisan migrate:fresh --seed
+```
+
 ## Test1
 Se implementó sobre Laravel pero no se utilizaron herramientas del framework para su desarrollo para curbrir el proposito del ejercicio.
 El código se encuentra en [app/Console/Commands/Test1.php](./app/Console/Commands/Test1.php)
