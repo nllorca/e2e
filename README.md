@@ -1,4 +1,4 @@
-# Farmacia CRUD
+# E2E - Backend PHP/MySQL
 Resolución de challenge para proceso de selección de E2E por Nicolás Llorca.
 
 ## Compilación y Ejecución
